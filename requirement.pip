@@ -1,0 +1,10 @@
+django
+pylint
+pylint-django
+autopep8
+virtualenv
+django-extensions
+django-werkzeug-debugger-runserver
+pyOpenSSL
+pymysql
+requests
