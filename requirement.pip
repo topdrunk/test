@@ -1,9 +1,2 @@
 django
-pylint
-pylint-django
-autopep8
-django-extensions
-django-werkzeug-debugger-runserver
-pyOpenSSL
-pymysql
-requests
+test
